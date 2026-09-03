@@ -155,4 +155,4 @@ This project is for academic purposes.
 ![Grad-CAM Sample](gradcam_annotated_sample.png)
 
 ### Multi-Region Detection (Bilateral Case)
-![Multi-Circle Sample](   ![Multi-Circle Sample](gradcam_multicircle_sample_v2.png))
+![Multi-Circle Sample](   (gradcam_multicircle_sample_v2.png))
