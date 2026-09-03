@@ -143,3 +143,16 @@ Final Year Project — BS Computer Science
 ## 📄 License
 
 This project is for academic purposes.
+## 📸 Sample Results
+
+### Confusion Matrix (Before vs After Threshold Calibration)
+![Confusion Matrix](confusion_matrix_comparison.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
+### Grad-CAM Explainability Sample
+![Grad-CAM Sample](gradcam_annotated_sample.png)
+
+### Multi-Region Detection (Bilateral Case)
+![Multi-Circle Sample](gradcam_multicircle_sample.png)
