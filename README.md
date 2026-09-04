@@ -146,7 +146,7 @@ This project is for academic purposes.
 ## 📸 Sample Results
 
 ### Confusion Matrix (Before vs After Threshold Calibration)
-![Confusion Matrix](gradcam_multicircle_final.png)
+![Confusion Matrix](confusion_matrix_comparison.png)
 
 ### ROC Curve
 ![ROC Curve](roc_curve.png)
@@ -155,4 +155,4 @@ This project is for academic purposes.
 ![Grad-CAM Sample](gradcam_annotated_sample.png)
 
 ### Multi-Region Detection (Bilateral Case)
-![Multi-Circle Sample](gradcam_multicircle_sample_v2.png)
+![Multi-Circle Sample](gradcam_multicircle_final.png)
