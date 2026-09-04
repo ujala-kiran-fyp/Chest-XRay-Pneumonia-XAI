@@ -146,7 +146,7 @@ This project is for academic purposes.
 ## 📸 Sample Results
 
 ### Confusion Matrix (Before vs After Threshold Calibration)
-![Confusion Matrix](confusion_matrix_comparison.png)
+![Confusion Matrix](gradcam_multicircle_final.png)
 
 ### ROC Curve
 ![ROC Curve](roc_curve.png)
